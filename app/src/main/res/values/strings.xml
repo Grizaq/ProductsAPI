@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ProductsAPI</string>
+    <string name="action_open_app_detail">open app detail</string>
+    <string name="standard_reload_error_message">reloading after error</string>
+    <string name="it_will_reload_soon">%1$s, it will reload soon</string>
+    <string name="reload_text">Reload</string>
+    <string name="back_button_desc">Back button</string>
+    <string name="message_about">message about %1$s</string>
+
+</resources>
